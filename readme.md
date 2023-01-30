@@ -1,0 +1,1 @@
+Sample example of how to mock an outgoing HTTP API call from within Spingboot integration tests using wiremock
